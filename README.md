@@ -1,131 +1,94 @@
-<div align="center">
+# Ushan Kamesh
 
-# Hi, I'm Ushan Kamesh 👋
+Computer Engineering undergraduate at the **University of Ruhuna, Sri Lanka**.  
+Interested in machine learning, software engineering, and robotics.
 
-**AI/ML Research · Software Engineering · Intelligent Systems**  
-Computer Engineering Undergraduate at the **University of Ruhuna, Sri Lanka**  
-**Co-Founder & Lead Developer — Nivralabs**
+[LinkedIn](https://www.linkedin.com/in/ushan-kamesh/)
 
-[LinkedIn](https://www.linkedin.com/in/ushan-kamesh/) · [Research](#-featured-research) · [Projects](#-selected-engineering-projects) · [Experience](#-experience--leadership)
+## Research
 
-</div>
+- **PhysicsDiff-PCB** — Physics-guided diffusion for PCB trace layout generation under electrical constraints. [Research update](https://www.linkedin.com/posts/ramishka-thennakoon_researchpaper-pcbdesign-generativeai-activity-7502538138825723904-K6OO)
 
-I work at the intersection of **machine learning, software engineering, and embedded systems**. My interests range from physics-aware generative models and speech recognition to building production-oriented web, mobile, and cloud applications.
+## Projects
 
-## 🔬 Featured Research
+- **Educational LMS platforms** — Video streaming, quizzes, administration, and messaging. [AL Guidance](https://alguidance.lk) · [Ewinners](https://ewinners.lk)
+- **[MEDtools.lk](https://medtools.lk)** — Medical equipment e-commerce website; frontend and UI/UX.
+- **MediFind** — Medicine locator with MERN and a Docker/Jenkins/Terraform deployment workflow.
+- **Dam Disaster Alert System** — Mobile and web interfaces for dam-risk alerts.
+- **Self-Balancing Bipedal Robot** — PID-based balance control; exhibited at Rextro 2025.
+- **WayPoint** — Logistics management for dispatchers, stores, drivers, and loaders.
 
-### PhysicsDiff-PCB — Physics-Guided Conditional Diffusion for Crosstalk-Aware PCB Layout Generation
+## Experience & Leadership
 
-**Research collaboration · Generative AI · Conditional Diffusion · Electromagnetics**
+- **System Development Pillar Head** — IESL UIY 2026
+- **Lead Developer & Web Administrator** — University of Ruhuna Silver Jubilee Portal
+- **Project Lead** — Rextro 2025 Bipedal Robotics
+- **Technical Committee Member** — Haxtreme 3.0 and SEDS Ruhuna
 
-A physics-guided conditional diffusion framework for generating PCB trace layouts from design and electromagnetic constraints. The approach integrates **frozen surrogate predictors** to guide generation toward signal-integrity objectives, including impedance and near-end crosstalk, while considering fabrication constraints.
+## Achievements
 
-- Explores constraint-conditioned layout generation with differentiable physics guidance.
-- Includes full-wave electromagnetic simulation in the reported research evaluation.
-- Research was presented at the **IEEE International Conference on Responsible Artificial Intelligence (IRAI 2026)**, according to the team's public announcement.
+- **1st Place** — Code Night 2025 Hackathon, University of Ruhuna
+- **IEEE IES GenAI Challenge 2026** — Research proposal selected
+- **Tech-Triathlon 2026** — Designathon, Hackathon, and Datathon participant
 
-[Read the team's research announcement ↗](https://www.linkedin.com/posts/ramishka-thennakoon_researchpaper-pcbdesign-generativeai-activity-7502538138825723904-K6OO)
+## Technologies
 
-### Fast EMI Prediction Using Physics-Aware Generative AI
+**AI / Machine Learning**
 
-**Research · PCB Electromagnetic Interference · Surrogate Modeling**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" alt="SciPy" title="SciPy" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="38" height="38" />
+</p>
 
-Investigating faster PCB electromagnetic-interference risk estimation using physics-aware surrogate models, with the goal of reducing reliance on computationally expensive electromagnetic solvers. The research proposal was selected among leading submissions in the **IEEE IES GenAI Challenge 2026**, as noted on my LinkedIn profile.
+<img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-F9C846?style=flat-square" /> <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" /> <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
 
-### Speech AI — Sinhala Whisper Fine-Tuning & SinMix-ASR
+**Development**
 
-**Research exploration · Speech AI · Low-Resource Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React / React Native" title="React / React Native" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" />
+</p>
 
-Working on **Sinhala speech recognition with Whisper fine-tuning**, including dataset preparation and transfer learning. Separately exploring **SinMix-ASR**, a research direction for code-mixed Sinhala–English recognition using parameter-efficient adaptation. Both focus on improving speech technology for local-language use cases.
+**Databases**
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="38" height="38" />
+</p>
 
-## 💼 Experience & Leadership
+**Tools / Embedded**
 
-| Role | Organization / Initiative | Focus |
-|---|---|---|
-| **Co-Founder & Lead Developer** | **Nivralabs** | Client-facing software development and educational platforms |
-| **Engineering Intern** | **SLT Digital Lab (2026)** | Engineering industrial placement |
-| **System Development Pillar Head** | **IESL UIY 2026** | Platform development coordination |
-| **Lead Developer & Web Administrator** | **University of Ruhuna Silver Jubilee Portal** | Frontend, deployment, and maintenance |
-| **Project Lead** | **Rextro 2025 — Bipedal Robotics** | Embedded software, balancing, and team coordination |
-| **Technical Committee Member** | **Haxtreme 3.0 / SEDS Ruhuna** | Technical and event-platform support |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="38" height="38" />
+</p>
 
-## 🏆 Highlights
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-D7352A?style=flat-square" />
 
-- 🥇 **1st Place — Code Night 2025 Hackathon**, University of Ruhuna.
-- 🧠 **Tech-Triathlon 2026** — participated in Designathon, Hackathon, and Datathon tracks.
-- 🔬 **IEEE IES GenAI Challenge 2026** — research proposal selection for physics-aware PCB modeling.
-- 🤖 **Rextro 2025** — led development of an exhibited self-balancing bipedal robot.
+## Certifications
 
-## 🚀 Selected Engineering Projects
-
-### Educational Technology Platforms — [alguidance.lk](https://alguidance.lk) / [ewinners.lk](https://ewinners.lk)
-**Co-Developer & System Architect** · React · Node.js · Express · Firebase · MySQL
-
-Developed LMS functionality including HLS-based video delivery, quizzes, student management, and administrative workflows. Also contributed to an **Electron-based desktop/web real-time messaging client** for student–tutor communication.
-
-### [MEDtools.lk](https://medtools.lk) — Medical Equipment E-Commerce
-**Frontend Lead & UI/UX Designer** · React · Node.js · Express · MySQL
-
-Led the frontend experience for a medical-equipment storefront, including responsive product discovery, catalogue navigation, and integration with backend commerce workflows.
-
-### MediFind — Medicine Locator with Automated Deployment
-**Full-Stack & DevOps Engineer** · MERN · Docker · Jenkins · Terraform · AWS
-
-Built a medicine inventory discovery platform alongside an infrastructure-as-code and CI/CD workflow using cloud provisioning, container builds, and automated deployment tooling.
-
-### Dam Disaster Alert System
-**Product Owner & Lead Developer** · React Native · Web · Machine Learning · Backend APIs
-
-Developed a cross-platform hazard-monitoring and early-warning application concept with location-aware alerts and machine-learning-based dam overflow risk classification.
-
-### Self-Balancing Bipedal Robot — Rextro 2025
-**Project Lead / Embedded Systems** · ESP32 · C/C++ · PID Control · Sensor Feedback
-
-Led the embedded software and PCB work for a bipedal robot, implementing real-time balance control and interaction features.
-
-### WayPoint — Logistics and Delivery Management
-**Systems Design / Competition Project**
-
-Designed workflows for dispatchers, store managers, drivers, and loaders, with an emphasis on multi-role logistics coordination and delivery tracking.
-
-<details>
-<summary><b>More projects and technical explorations</b></summary>
-
-- **Nivralabs LMS** — Commercial educational software focused on institute administration, digital learning, and media delivery.
-- **Cross-Platform LMS Messaging** — Electron/React-based messaging integration with web and desktop clients.
-- **Silver Jubilee Portal** — Frontend development, deployment, and ongoing administration for a University of Ruhuna faculty event.
-- **AutoShorts Studio (architecture stage)** — Proposed Electron, Node.js, FastAPI, SQLite, and AI-API-based desktop video-generation architecture; implementation status not yet documented.
-- **Interactive 3D Visualizations** — Three.js-based terrain and human-anatomy visualizations.
-- **Sri Lankan Calendar App** — Flutter-based mobile calendar design and development centered on Sri Lankan events and holidays.
-
-</details>
-
-## 🛠️ Technical Toolkit
-
-| Area | Technologies |
-|---|---|
-| **AI / Data** | Python, PyTorch, scikit-learn, Pandas, NumPy, CatBoost, XGBoost |
-| **Frontend / Mobile** | React, TypeScript, JavaScript, Tailwind CSS, React Native, Flutter |
-| **Backend** | Node.js, Express, Spring Boot, FastAPI |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase, SQLite |
-| **Cloud / DevOps** | Docker, Jenkins, Terraform, AWS, DigitalOcean, Git |
-| **Embedded / Graphics** | ESP32, C/C++, PID control, Three.js |
-
-## 📚 Selected Certifications
-
-- **Introduction to Neural Networks and PyTorch** — IBM (2026)
-- **Machine Learning with Python** — IBM (2026)
-- **Deep Learning with Keras and TensorFlow** — IBM (2026)
-- **Introduction to Deep Learning & Neural Networks with Keras** — IBM (2026)
-
-## 🤝 Connect
-
-I'm interested in **applied AI research, machine learning engineering, software systems, and robotics** — especially projects where research needs to become practical, reliable software.
-
-**[Connect on LinkedIn ↗](https://www.linkedin.com/in/ushan-kamesh/)**
-
----
-
-<sub>Some projects are team collaborations or ongoing research. Source code, demos, publications, and independently verifiable performance results will be linked as they become public.</sub>
+IBM — Machine Learning with Python · Introduction to Neural Networks and PyTorch · Deep Learning with Keras and TensorFlow · Introduction to Deep Learning & Neural Networks with Keras
